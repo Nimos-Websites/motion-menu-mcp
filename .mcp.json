@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "motion-menu": {
+      "type": "http",
+      "url": "https://www.motionmenu.ca/api/mcp"
+    }
+  }
+}
