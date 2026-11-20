@@ -47,7 +47,7 @@ Cline: see [llms-install.md](./llms-install.md).
 Claude Code plugin (optional — the same endpoint plus the Motion Menu workflow skill):
 
 ```text
-/plugin marketplace add dev55acc-ai/motion-menu-plugin
+/plugin marketplace add Nimos-Websites/motion-menu-plugin
 /plugin install motion-menu-patterns@motion-menu
 ```
 
